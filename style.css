@@ -1,27 +1,24 @@
 .heading{
-    font-size:23px;
+    font-family: 'Amatic SC', cursive;
+     padding: 20px;
+     width:100%;
+     font-size:30px;
+}
+center{
     width:100%;
-    margin:0px;
-    box-shadow:5px 5px 5px grey;
+    height:290px;
 }
 .note{
-    font-size:15px;
-    color:black;
-
+    line-height:3;
 }
 .copy_right_footer{
-    position:fixed;
     width:100%;
+    position:fixed;
     bottom:0;
-    color:white;
-    background-color: grey;
-    line-height:3;
+    font-family: 'Bitter', serif;
+    line-height:4;
     text-align:center;
+    background-color: lightcoral;
+    color:white;
 
-}
-canvas{
-    border:5px solid white ;
-    border-radius:20px;
-    box-shadow:5px 5px 5px grey;
-    
 }
